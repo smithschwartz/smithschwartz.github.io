@@ -5,6 +5,7 @@ body {
   color: white;
   text-align: center;
   font-family: 'Libre Baskerville', serif;
+  font-variant-ligatures: none;
 }
 
 a {
